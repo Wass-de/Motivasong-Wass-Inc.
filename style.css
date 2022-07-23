@@ -1,0 +1,53 @@
+body {
+    background-color: #2d3436;
+}
+
+h1 {
+    position: absolute;
+    left: 56px;
+    top: 14px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+h2 {
+    position: absolute;
+    left: 75px;
+    top: 80px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.img1 {
+    position: absolute;
+
+    left: 53px;
+    top: 592px;
+}
+
+.img2 {
+    position: absolute;
+
+    left: 56px;
+    top: 367px;
+     
+}
+
+.img3 {
+    position: absolute;
+
+    left: 55px;
+    top: 136px;
+
+}
+
